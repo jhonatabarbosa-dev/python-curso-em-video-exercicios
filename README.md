@@ -1,12 +1,12 @@
-Exercícios de Python - Curso em Vídeo
+# Exercícios de Python - Curso em Vídeo
 
 Este repositório contém minhas soluções para os exercícios propostos durante o curso de Python do Curso em Vídeo, ministrado por Gustavo Guanabara.
 
-Objetivo
+## Objetivo
 
 O objetivo deste repositório é registrar minha evolução nos estudos da linguagem Python e servir como material de consulta para os conceitos aprendidos ao longo do curso.
 
-Conteúdos estudados
+## Conteúdos estudados
 
 Durante a resolução dos exercícios foram abordados temas como:
 
@@ -22,18 +22,16 @@ Durante a resolução dos exercícios foram abordados temas como:
 * Manipulação de dados
 * Boas práticas de organização de código
 
-Estrutura do repositório
+## Estrutura do repositório
 
 Os exercícios estão organizados em pastas de acordo com os módulos e assuntos estudados no curso.
 
 Alguns exercícios utilizam múltiplos arquivos e diretórios para demonstrar conceitos de modularização e organização de projetos.
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Python 3
 
-Observações
+## Observações
 
 Este repositório tem finalidade educacional e documenta meu processo de aprendizado. As soluções refletem o conhecimento adquirido durante o curso e foram desenvolvidas como prática dos conceitos apresentados nas aulas.
-
-Jhonata Barbosa Costa
