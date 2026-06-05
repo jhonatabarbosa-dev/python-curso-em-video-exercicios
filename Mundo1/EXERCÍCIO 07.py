@@ -1,0 +1,8 @@
+n=float(input("UMA DISTÂNCIA EM METROS: "))
+print("A medida de {:.2f} metros equivale a:".format(n))
+print("{:.2f} Km".format(n/1000))
+print("{} h".format(n/100))
+print("{} dam".format(n/10))
+print("{} dm".format(n*10))
+print("{:.0f} cm".format(n*100))
+print("{:.2f} mm".format(n*1000))
